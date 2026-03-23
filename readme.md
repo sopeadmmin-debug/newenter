@@ -1,1 +1,1 @@
-This file is designed to understand the init version of git
+# This file is designed to understand the init version of git
